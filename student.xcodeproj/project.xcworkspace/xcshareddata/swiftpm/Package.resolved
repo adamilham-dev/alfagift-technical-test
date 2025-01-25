@@ -1,0 +1,24 @@
+{
+  "originHash" : "82eddea6870d796bd1c99d7d7dc384f38a036606b63056344184cf29ae58fe72",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Azzamubaidillah/Alamofire",
+      "state" : {
+        "branch" : "master",
+        "revision" : "78424be314842833c04bc3bef5b72e85fff99204"
+      }
+    },
+    {
+      "identity" : "ragtextfield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/raginmari/RAGTextField",
+      "state" : {
+        "revision" : "f40f56e6b9700a3711c72b48af9369032bc063ad",
+        "version" : "0.14.0"
+      }
+    }
+  ],
+  "version" : 3
+}
